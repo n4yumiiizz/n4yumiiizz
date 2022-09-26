@@ -1,10 +1,9 @@
-- 👋 oi, eu sou @n4yumiiizz
-- 👀 meu email de contato [email](julia.rosa.jesus@escola.pr.gov.pr)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Sobre Mim:
 
-<!---
-n4yumiiizz/n4yumiiizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:alien: lá, meu nome é @n4yumiiizz
+
+:speech_balloon: Meu cctato é @julia.rosa.jesus@escola.pr.gov.br
+
+:eyes:Eu estou interessada em aprender a programar novas linguagens
+
+:trollface:Eu estou aprendedo a programar recentemente a linguagem JavaScript
